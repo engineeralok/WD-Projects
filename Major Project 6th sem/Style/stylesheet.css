@@ -455,8 +455,7 @@ header .navbar ul li a:hover{
 
 .scroll-top{
     position: fixed;
-    bottom: 7.5rem; 
-    right: 2rem;
+    bottom:7.5rem; right:2rem;
     z-index: 100;
     display: none;
 }
@@ -464,7 +463,6 @@ header .navbar ul li a:hover{
 .scroll-top img{
     height: 7rem;
 }
-
 
 
 
